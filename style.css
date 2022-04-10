@@ -78,3 +78,18 @@ body {
     background-color: #2ab2ea;
     color:azure;    
 }
+
+footer {
+    background-color: aliceblue;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+}
+
+footer p {
+    text-align: center;
+    font-weight:600;
+}
